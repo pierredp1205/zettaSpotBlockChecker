@@ -1,0 +1,8 @@
+{
+    "pattern": "Z([0-9]){1,2}",
+    "server": "",
+    "port": "3139",
+    "APIKEY": "",
+    "authorization": "",
+    "max_stretch": 5
+}

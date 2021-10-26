@@ -1,0 +1,5 @@
+config.json
+splitStationFinder.log*
+splitStations.json
+zettaSpotBlockChecker.log*
+__pycache__
